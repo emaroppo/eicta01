@@ -1,0 +1,8 @@
+citizen_id,name,surname,sex,birthday,household_id,occupation_id,branch_id
+1,Kirsten,RICHARDS,f,1980-02-17,49,832,14
+2,Corey,RICHARDS,m,1983-01-21,49,832,14
+3,Hunter,RICHARDS,m,2015-11-03,49,,
+4,Luke,RICHARDS,m,2012-01-28,49,,
+5,Emily,MEYERS,f,1970-04-13,50,831,15
+6,Jaxon,MEYERS,m,1993-12-16,50,833,15
+7,Hayley,MEYERS,f,2014-02-07,50,,
