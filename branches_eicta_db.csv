@@ -36,3 +36,14 @@ branch_id,employer_id,street_n,street_name,city,open_to_public
 35,6,56,MISSOURI ST,McAdenville,0
 36,6,10,EMERALD LN,Moose Pass,0
 37,7,199,MARNE AVE,De Lamere,1
+38,1,40,PONTIAC ST,Pamelia Center,1
+39,2,155,HUNTER ST,Pamelia Center,0
+40,3,133,UNNAMED 044,Pamelia Center,0
+41,4,44,FRIEDELL ST,Pamelia Center,0
+42,5,136,CROSSOVER DR,Pamelia Center,0
+43,5,147,PORTAL PATH,Pamelia Center,0
+44,5,183,MARNE AVE,Pamelia Center,0
+45,6,200,LONDON ST,Pamelia Center,0
+46,7,52,MODOC AVE,Pamelia Center,1
+47,7,146,WAYNE PL,Pamelia Center,1
+48,7,67,GRIJALVA DR,Pamelia Center,1
